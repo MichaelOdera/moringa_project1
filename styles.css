@@ -77,6 +77,10 @@
     background-color: white;
     color: black;
 }
+/* Dropdown Button */
+.topnav .icon{
+    display: none;
+}
 
 /* Dropdown Button */
 .dropdown-button {
