@@ -430,6 +430,7 @@ section div a:hover{
 }
 .mail-us ul{
     display: flex;
+    flex-wrap: wrap;
     width: 100%;
     margin-left: 2%;
 }
